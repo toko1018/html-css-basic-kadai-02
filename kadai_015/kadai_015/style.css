@@ -1,7 +1,6 @@
-    .decoration {
-        font-family: "Arial", "Meiryo", sans-serif; 
-        text-align: center;
-    }
+    h1, h2, p {
+    text-align: center;
+}
 
     html {
         font-size: 20px; 
@@ -29,8 +28,7 @@
         font-style: normal;    
     }   
 
-    .bold {
+    #basic p .child {
         font-weight: bold;
     }
-    
  
